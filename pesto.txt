@@ -1,4 +1,3 @@
 ABC
 EFG
 KLM
-XYZ
